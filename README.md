@@ -11,9 +11,11 @@
 * En tant qu'administrateur, je veux savoir si un bus peut accueillir les passagers provenant d'un autre bus
 * En tant qu'administrateur, je veux afficher la liste des passagers d'un bus dans la console
 * En tant qu'administrateur, je veux afficher l'ensemble des passagers de ma flotte de bus dans la console
-* En tant qu'administrateur, je veux savoir si un passager est enregistré sur un bus de ma flotte. Si résultat positif, je souhaite afficher les détails de ce bus dans la console
+* En tant qu'administrateur, je veux savoir si un passager est enregistré sur un bus de ma flotte. 
 
-Informations utiles
+Si résultat positif, je souhaite afficher les détails de ce bus dans la console
+
+### Informations utiles
 Les informations ci-dessous seront complétées par vous si necessaire
 
 ### Passager
