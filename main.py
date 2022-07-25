@@ -40,3 +40,15 @@ def check_if_matricule_is_used(matricule):
 busA = create_bus()
 busB = create_bus()
 print(busA, busB)
+
+#TODO creer le passager
+import copy
+passager_model = {
+    "id" : "empty",
+    "nom" : "empty",
+    "bagage" : 0
+}
+def user_create(check_id_user):
+    array = []
+    while True:
+        name = input("Entrer le nom du passager: ")
